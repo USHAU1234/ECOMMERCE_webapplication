@@ -33,11 +33,11 @@ This is a feature-rich eCommerce web application that allows both users and admi
 
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/USHAU1234/ECOMMERCE_webapplication/tree/main
    ```
 2. Navigate to the project directory:
    ```sh
-   cd eCommerceApp
+   cd EcommerceApp
    ```
 3. Set up a local server (XAMPP, WAMP, or MAMP recommended).
 4. Import the provided SQL database.
@@ -46,7 +46,10 @@ This is a feature-rich eCommerce web application that allows both users and admi
 
 ## 📸 Screenshots
 
-(Add screenshots of the application UI here)
+![Screenshot (74)](https://github.com/user-attachments/assets/d688c24e-0654-4351-95aa-25230c259c2a)
+![Screenshot (73)](https://github.com/user-attachments/assets/789a0400-b24e-4b1b-bb18-8f19b290682f)
+![Screenshot (72)](https://github.com/user-attachments/assets/7acc6f64-20c9-403f-83ff-af87c2e71335)
+![Screenshot (71)](https://github.com/user-attachments/assets/a3f31061-2dfb-4a25-9942-1670c64b42ed)
 
 ## 🛠️ Technologies Used
 

@@ -59,11 +59,5 @@ This is a feature-rich eCommerce web application that allows both users and admi
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
-## 📄 License
 
-This project is licensed under the MIT License.
-
----
-
-📌 **Maintained by [Your Name](https://github.com/your-username)**
 
